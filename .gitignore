@@ -1,0 +1,2 @@
+.vscode     # ignore all .vscode aux files
+files       # ignore all temp files
