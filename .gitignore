@@ -1,6 +1,9 @@
 # Visual Studio
 .vscode
 
+# virtual envoronment
+venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
