@@ -21,7 +21,7 @@ You can replace `venv` by any names of the virtual environment whose you want.
 ### Install needed Python libraries
 
 ```powershell
-(venv): ... pip install numpy pandas matplotlib tables openpyxl jupyter
+(venv): ... pip install -r requirements.txt
 ```
 
 ### Deactivate the virtual environment
